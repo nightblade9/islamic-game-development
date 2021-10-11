@@ -15,6 +15,7 @@ In terms of rulings, you may want to know about:
 - [A brief opinion on beat-boxing](https://islamqa.info/en/answers/1867/sounds-produced-by-mouth-which-sound-like-musical-instruments) and things that sound like music (they take the same ruling as music).
 - [A fatwa about exclusions](https://islamqa.com/en/answers/10326/tv-and-movie-pictures-and-video-pictures); in particular, it mentions (square-bracket add-ins are mine): "The first category [of pictures] is those which have no tangible substance (and can only be seen by running them through a machine), as I was told is the case with pictures on video tapes [and video games]. There is no ruling at all concerning these, and **they do not come under the prohibition at all.**"
 - [An interesting answer](https://islam.stackexchange.com/a/24858) about the morality of making video games, and what might and might not be problematic (from an Islamic perspective)
+- [An excellent video](https://www.youtube.com/watch?v=p4MHV15n-Lw) about Muslim representation in video games, which also talks about why this matters
 
 # Halal Music Alternatives
 
