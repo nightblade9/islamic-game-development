@@ -23,7 +23,7 @@ I follow the opinion that only vocals and drums (not precussion instruments in g
 
 ## The Infinite Drum Machine
 
-[The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/) is an AI-driven music maker. It layers together four different precussion instruments (you can customize from what seems like hundreds of samples) and generates a short audio track.
+[The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/) is an AI-driven audio maker. It layers together four different precussion instruments (you can customize from what seems like hundreds of samples) and generates a short audio loop.
 
 ## LMMS with Timbres of Heaven
 
