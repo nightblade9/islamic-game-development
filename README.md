@@ -21,9 +21,9 @@ In terms of rulings, you may want to know about:
 
 I follow the opinion that only vocals and drums (not precussion instruments in general) are permissible. Based on that, here are some resources that may be helpful to create "music" or nasheed-like audio.
 
-## Strofe
+## The Infinite Drum Machine
 
-[Strofe](https://www.strofe.com/create) is an AI-driven music maker. It currently ships with a few drum/precussion samples and a couple of choir ones, with [plans to add more](https://www.reddit.com/r/gamedev/comments/pxan90/update_you_can_still_make_your_own_music_with_ai/henprvc/?utm_source=reddit&utm_medium=web2x&context=3) in the future.
+[The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/) is an AI-driven music maker. It layers together four different precussion instruments (you can customize from what seems like hundreds of samples) and generates a short audio track.
 
 ## LMMS with Timbres of Heaven
 
